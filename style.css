@@ -1,0 +1,75 @@
+body {
+  background-color: #f0f4f8;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+nav {
+  background-color: #2c3e50 !important;
+}
+
+#page-title {
+  color: white;
+  font-size: 2rem;
+  letter-spacing: 3px;
+}
+
+nav p {
+  color: #ccc;
+  font-size: 0.9rem;
+}
+
+#search-btn {
+  background-color: #e74c3c;
+  border: none;
+  color: rgb(251, 248, 248);
+  font-weight: bold;
+}
+
+#search-btn:hover {
+  background-color: #7c3b33;
+}
+
+.card {
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #dcd6f7;
+  border-left: 4px solid #8e44ad;
+}
+
+.card-header {
+  background-color: #2c3e50 !important;
+  color: white !important;
+  font-weight: bold;
+}
+
+h2 {
+  color: #2c3e50;
+}
+
+.btn-success {
+  background-color: #27ae60;
+  border: none;
+}
+
+.btn-danger {
+  background-color: #ca3d2e;
+  border: none;
+}
+
+#search-input {
+  background-color: #ffffff;
+  border: 2px solid #8e44ad;
+  colour: #000000;
+}
+
+
+h2, h3 {
+  color: #8e44ad;
+}
+
+#page-title {
+  color: white;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+}
